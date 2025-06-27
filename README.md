@@ -4,7 +4,7 @@
 
 - Founder of development studio **JuicyLlama**
 - I’m looking for help with **Growing the open-source tool Llana**
-- Ask me about **Workflow Automation**
+- Ask me about **CTO** type things
 
 ### 📫 How to reach me 
 
