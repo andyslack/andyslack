@@ -3,8 +3,8 @@
 ### 👋 Hola I'm Andy
 
 - Founder of development studio **JuicyLlama**
-- I’m looking for help with **Growing the open-source tool Llana**
-- Ask me about **CTO** type things
+- Building a payments business **Flopay**
+- Ask me about **CEO/CTO** type things
 
 ### 📫 How to reach me 
 
@@ -14,7 +14,6 @@
 ### ⤵️ Helpful Links
 
 - [JuicyLlama](https://juicyllama.com) - We help businesses scale by automating and optimizing workflows, using code-free, low-code, or full-code solutions.
-- [Llana](https://juicyllama.com/tools/llana) - Database REST API in minutes
 
 ### ⭐ GitHub Stats 
 
