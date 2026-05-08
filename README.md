@@ -14,7 +14,3 @@
 ### ⤵️ Helpful Links
 
 - [JuicyLlama](https://juicyllama.com) - We help businesses scale by automating and optimizing workflows, using code-free, low-code, or full-code solutions.
-
-### ⭐ GitHub Stats 
-
-[![AndySlack's github stats](https://github-readme-stats.vercel.app/api?username=andyslack&show_icons=true)](https://github.com/andyslack)
